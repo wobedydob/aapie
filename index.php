@@ -1,3 +1,3 @@
 <?php
 
-// hello world.
+require 'includes.php';
